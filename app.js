@@ -16,11 +16,12 @@ Bot.on('join', () => {
         const toSend = 'hello ' + name + '. ' + msg;
         Bot.say(toSend);
         console.log(toSend);
-        robot.typeString('hello world' + '\r');
-        robot.moveMouse(100, 100);
 
-})
-})
+        robot.typeString(toSend +'\r');
+        // robot.moveMouse(100, 100);
+
+    });
+});
 
 Bot.on('error', err => {
     console.log(err)

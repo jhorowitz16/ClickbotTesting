@@ -1,0 +1,23 @@
+{
+  "name": "chatbot",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jhorowitz16/ClickbotTesting.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/jhorowitz16/ClickbotTesting/issues"
+  },
+  "homepage": "https://github.com/jhorowitz16/ClickbotTesting#readme",
+  "dependencies": {
+    "robotjs": "^0.4.7",
+    "twitch-bot": "^1.2.2"
+  }
+}
