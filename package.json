@@ -1,5 +1,8 @@
 {
   "name": "chatbot",
+  "engines": {
+    "node": ">=9.4" // intentionally so big version number
+  },
   "version": "1.0.0",
   "description": "",
   "main": "app.js",
