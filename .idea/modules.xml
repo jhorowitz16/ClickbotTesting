@@ -2,6 +2,7 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/ClickbotTesting.iml" filepath="$PROJECT_DIR$/.idea/ClickbotTesting.iml" />
       <module fileurl="file://$PROJECT_DIR$/chatbot.iml" filepath="$PROJECT_DIR$/chatbot.iml" />
     </modules>
   </component>

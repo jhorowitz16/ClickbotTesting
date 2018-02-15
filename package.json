@@ -1,7 +1,7 @@
 {
   "name": "chatbot",
   "engines": {
-    "node": ">=9.4" // intentionally so big version number
+    "node": ">=9.4"
   },
   "version": "1.0.0",
   "description": "",
@@ -20,6 +20,7 @@
   },
   "homepage": "https://github.com/jhorowitz16/ClickbotTesting#readme",
   "dependencies": {
+    "isnumeric": "^0.3.2",
     "robotjs": "^0.4.7",
     "twitch-bot": "^1.2.2"
   }
